@@ -1,3 +1,6 @@
+// Take two numbers and determine whether both are even, both are odd, or one is 
+// even and one is odd.
+
 #include <iostream>
 
 int main()

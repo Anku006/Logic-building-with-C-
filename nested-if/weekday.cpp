@@ -1,3 +1,7 @@
+ 
+// Take a day number (1–7) and print the corresponding day name. 
+
+
 #include <iostream>
 
 int main()

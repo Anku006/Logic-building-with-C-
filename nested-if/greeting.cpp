@@ -1,3 +1,6 @@
+//Take the hour of the day (0–23) and print “Good Morning”, “Good Afternoon”, “Good 
+// Evening”, or “Good Night”.
+
 #include <iostream>
 
 int main() 

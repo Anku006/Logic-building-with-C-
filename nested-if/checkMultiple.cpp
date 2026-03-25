@@ -1,3 +1,5 @@
+// Check if one of two given numbers is a multiple of the other. 
+
 #include <iostream>
 
 int main() {

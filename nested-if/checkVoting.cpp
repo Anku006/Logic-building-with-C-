@@ -1,3 +1,5 @@
+// Check voting eligibility for a given age (18+).
+
 #include <iostream>
 
 int main()

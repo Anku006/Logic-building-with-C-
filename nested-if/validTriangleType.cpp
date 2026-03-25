@@ -1,3 +1,6 @@
+//If the sides form a valid triangle, determine whether it is equilateral, isosceles, or 
+// scalene.
+
 #include <iostream>
 
 int main()

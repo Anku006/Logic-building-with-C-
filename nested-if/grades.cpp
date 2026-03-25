@@ -1,3 +1,5 @@
+// Take marks (0–100) and print the corresponding grade (A/B/C/D/F).
+
 #include <iostream>
 
 int main()

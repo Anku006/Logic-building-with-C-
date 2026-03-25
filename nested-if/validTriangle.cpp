@@ -1,3 +1,5 @@
+// Take three sides and check if they form a valid triangle.
+
 #include <iostream>
 
 int main()

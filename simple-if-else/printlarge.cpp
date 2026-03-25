@@ -1,3 +1,5 @@
+// Take two numbers and print the larger one
+
 #include <iostream>
 
 int main()
