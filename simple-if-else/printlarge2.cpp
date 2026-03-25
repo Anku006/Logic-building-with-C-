@@ -1,3 +1,5 @@
+// Take three numbers and print the largest.
+
 #include <iostream>
 
 int main()

@@ -1,3 +1,5 @@
+// Check if a number is divisible by 5. 
+
 #include <iostream>
 
 int main()

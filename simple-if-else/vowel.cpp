@@ -1,3 +1,5 @@
+// Take a character and check if it’s a vowel or consonant.
+
 #include <iostream>
 
 int main()

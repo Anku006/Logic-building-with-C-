@@ -1,3 +1,5 @@
+// Take a temperature value and print “Cold”, “Warm”, or “Hot” using range conditions.
+
 #include <iostream>
 
 int main()
